@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">CookXperience</string>
+    <string name="mensaje">Not a member?</string>
+    <string name="user">User</string>
+    <string name="pswd">Password</string>
+    <string name="mail">Mail</string>
+    <string name="msjRegisterNow">Registrate Ahora</string>
+
+    <string name="btnRegister">Registrarse</string>
+    <string name="title_activity_receta">Receta</string>
+    <string name="button_IniciarSSesion">Iniciar Sesión</string>
+    <string name="button_registrarse">Registrarse</string>
+    <string name="button_logeo">Ingresar</string>
+    <string name="button_registrar">Ingresar</string>
+    <string name="edit_usuariolog">Usuario</string>
+    <string name="edit_contrseña">Contraseña</string>
+    <string name="edit_nombre">Nombre</string>
+    <string name="edit_email">correo electrónico</string>
+    <string name="edit_Usuarioregis">Usuario</string>
+    <string name="edit_contraseñaregistre">Contraseña</string>
+    <string name="button_crearre">Crear Receta</string>
+    <string name="button_consultarTodosmenu">Consultar Recetas</string>
+    <string name="button_Consultarporme">Consultar Por Recta</string>
+    <string name="edit_crearReceta2">Ingrese nombre de la receta</string>
+    <string name="button_subirimagen">Subir Imagen</string>
+    <string name="edit_nombrereceta">Ingrese Nombre Receta</string>
+    <string name="button_subirImgaen">Subir Imagen</string>
+    <string name="text_tradicional">¿Es tradicional?</string>
+    <string name="radio_button_si">SI</string>
+    <string name="radio_button_No">No</string>
+    <string name="edit_ciudad_Provincia">Ciudad/Provincia de la Receta</string>
+    <string name="edit_Pendiente">¿De quien aprendio la receta?</string>
+    <string name="txt_Ingredientes">Ingredientes</string>
+    <string name="edit_Ingresar_Ingredientes">Ingresar Ingredientes</string>
+    <string name="txt_Preparacion">Preparación</string>
+    <string name="edit_Preparacion">Ingrese Prepación</string>
+    <string name="button_subir_Imagen1">Subir Imagen</string>
+    <string name="button_perfil">Ver Perfil</string>
+    <string name="textRecetas">Recetas</string>
+    <string name="buttonBuscarReceta">Buscar Receta</string>
+    <string name="textIngreseReceta">Ingrese Receta a Buscar</string>
+    <string name="textLogin">Login</string>
+    <string name="editTextFechaNacimiento">Fecha de Nacimiento</string>
+    <string name="edittextProfeión">Profesión</string>
+    <string name="editTextComidaFavorita">Comida Favorita</string>
+    <string name="textViewOpcionRealizar">Elija La opción a Realizar</string>
+    <string name="textViewRegistrarse">Registrarse</string>
+    <string name="textViewLogin">Login</string>
+    <string name="textViewBienvenida">Bienvenido</string>
+    <string name="textViewPerfil">Perfíl</string>
+    <string name="textViewCrearRecta">Crear Receta</string>
+    <string name="textViewRects">¿Qué te parecio la Receta?</string>
+
+    <string name="textViewActor">Autor</string>
+
+
+    <string name="msjCredenciales">Credenciales Incorrecta</string>
+
+</resources>
